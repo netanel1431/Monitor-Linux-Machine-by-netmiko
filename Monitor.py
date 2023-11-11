@@ -5,10 +5,6 @@ import numpy as np
 import time
 
 
-
-
-
-
 def MonitorLinuxMachine(ip,username,password):
     try:
         linux = {
